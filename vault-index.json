@@ -1,4 +1,14 @@
 {
   "version": "2.0",
-  "groups": []
+  "groups": [
+    {
+      "id": "0c84aa5f-44bd-4ded-8cd8-7fb89774303e",
+      "name": "CipherFS!",
+      "salt": "je9nXV3iNU68TTuJj96ELA==",
+      "iv": "V9oLM1RXx8UjM4Ni",
+      "ciphertext": "Zk+ymtyT5u9xMQsc73lizOSM",
+      "created": 1764993382174,
+      "modified": 1764993382174
+    }
+  ]
 }
